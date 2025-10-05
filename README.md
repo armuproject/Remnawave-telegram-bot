@@ -11,7 +11,6 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)](https://python.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blue?logo=postgresql&logoColor=white)](https://postgresql.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/Fr1ngg/remnawave-bedolaga-telegram-bot?style=social)](https://github.com/Fr1ngg/remnawave-bedolaga-telegram-bot/stargazers)
 
 [🚀 Быстрый старт](#-быстрый-старт) • [📖 Функционал](#-функционал) • [🐳 Docker](#-docker-развертывание) • [💻 Локальная разработка](#-локальная-разработка) • [💬 Поддержка](#-поддержка-и-сообщество)
 
@@ -19,15 +18,15 @@
 
 ---
 
-## 🧪 [Тестирование бота](https://t.me/FringVPN_bot)
+## 🧪 [Тестирование бота](https://t.me/zelemhanvpn_bot)
 
-## 💬 **[Bedolaga Chat](https://t.me/+wTdMtSWq8YdmZmVi)** - Для общения, вопросов, предложений
+## 💬 **[ArMuProject](https://t.me/armuproject_dev)** - Для общения, вопросов, предложений
 
 ---
 
-## 🌟 Почему Bedolaga?
+## 🌟 Почему ArMuProject?
 
-Бот Бедолага не добрый и не милый.
+Бот ArMuProject не добрый и не милый.
 Он просто делает вашу работу вместо вас, принимает оплату, выдаёт подписки, интегрируется с Remnawave и тихо ненавидит всех, кто ещё не подключил его.
 
 Вы хотите продавать VPN — Бедолага позволит это делать.
@@ -1666,11 +1665,8 @@ REMNAWAVE_SECRET_KEY=XXXXXXX:DDDDDDDD
 
 ## 🤝 Как помочь проекту
 
-- 🔍 [**Сообщай о багах**](https://github.com/Fr1ngg/remnawave-bedolaga-telegram-bot/issues) с подробным описанием
-- 💡 [**Предлагай идеи**](https://github.com/Fr1ngg/remnawave-bedolaga-telegram-bot/discussions) для улучшения
 - ⭐ **Ставь звезды** проекту - это мотивирует разработку!
 - 📢 **Рассказывай друзьям** о проекте
-- 💝 **[Поддержи разработку](https://t.me/tribute/app?startapp=duUO)** - помоги проекту расти
 
 ---
 
@@ -1678,9 +1674,8 @@ REMNAWAVE_SECRET_KEY=XXXXXXX:DDDDDDDD
 
 ### 📞 **Контакты**
 
-- **💬 Telegram:** [@fringg](https://t.me/fringg) - вопросы по разработке (только по делу!)
-- **💬 Telegram Group:** [Bedolaga Chat](https://t.me/+wTdMtSWq8YdmZmVi) - общение, вопросы, предложения, баги
-- **🐛 Issues:** [GitHub Issues](https://github.com/Fr1ngg/remnawave-bedolaga-telegram-bot/issues) - баги и предложения
+- **💬 Telegram:** [@artmuz4](https://t.me/artmuz4) - вопросы по разработке (только по делу!)
+- **💬 Telegram Channel:** [Bedolaga Chat](https://t.me/armuproject)dev) - общение, вопросы, предложения, баги
 
 ### 📚 **Полезные ресурсы**
 
@@ -1691,87 +1686,13 @@ REMNAWAVE_SECRET_KEY=XXXXXXX:DDDDDDDD
 
 ---
 
-## 💝 Благодарности
-
-### 🌟 **Топ спонсоры проекта**
-
-<table align="center">
-<tr>
-<th>🏆 Место</th>
-<th>👤 Спонсор</th>
-<th>💰 Сумма</th>
-<th>💬 Благодарность</th>
-</tr>
-
-<tr>
-<td>🥇</td>
-<td><strong>@pilot_737800</strong></td>
-<td>₽4,750</td>
-<td>За веру в проект с самого начала</td>
-</tr>
-
-<tr>
-<td>🥈</td>
-<td><strong>@Legacyyy777</strong></td>
-<td>₽2,600</td>
-<td>За ценные предложения по улучшению</td>
-</tr>
-
-<tr>
-<td>🥉</td>
-<td><strong>Илья (@ispanec_nn)</strong></td>
-<td>$30</td>
-<td>За активное тестирование и фидбек</td>
-</tr>
-
-<tr>
-<td>4</td>
-<td><strong>@fso404</strong></td>
-<td>₽1,000</td>
-<td>За поддержку и доверие</td>
-</tr>
-
-<tr>
-<td>5</td>
-<td><strong>@edward_forix</strong></td>
-<td>₽1,000</td>
-<td>За поддержку и доверие</td>
-</tr>
-
-<tr>
-<td>5</td>
-<td><strong>@Nav1_0</strong></td>
-<td>₽1,000</td>
-<td>За поддержку и доверие</td>
-</tr>
-
-<tr>
-<td>6</td>
-<td><strong>@kr33njee</strong></td>
-<td>₽800</td>
-<td>За поддержку и доверие</td>
-</tr>
-
-<tr>
-<td>7</td>
-<td><strong>@SmartSystemCompany</strong></td>
-<td>₽600</td>
-<td>За поддержку и доверие</td>
-</tr>
-
-<tr>
-<td>8</td>
-<td><strong>@PhiLin58</strong></td>
-<td>₽300</td>
-<td>За участие в развитии</td>
-</tr>
 
 </table>
 
 ### 🌟 **Особая благодарность**
 
 - **Remnawave Team** - за отличную панель и стабильный API
-- **Сообщество Bedolaga** - за активное тестирование и обратную связь
+- **Сообщество ArMuProject** - за активное тестирование и обратную связь
 - **Всем пользователям** - за доверие и использование бота
 
 ---
@@ -1799,39 +1720,8 @@ REMNAWAVE_SECRET_KEY=XXXXXXX:DDDDDDDD
 
 ## 🚀 Начни уже сегодня!
 
-<table align="center">
-<tr>
-<td align="center">
-<h3>🧪 Протестируй бота</h3>
-<a href="https://t.me/FringVPN_bot">
-<img src="https://img.shields.io/badge/Telegram-Тестовый_бот-blue?style=for-the-badge&logo=telegram" alt="Test Bot">
-</a>
-</td>
-<td align="center">
-<h3>💬 Присоединись к сообществу</h3>
-<a href="https://t.me/+wTdMtSWq8YdmZmVi">
-<img src="https://img.shields.io/badge/Telegram-Bedolaga_Chat-blue?style=for-the-badge&logo=telegram" alt="Community">
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<h3>⭐ Поставь звезду</h3>
-<a href="https://github.com/Fr1ngg/remnawave-bedolaga-telegram-bot">
-<img src="https://img.shields.io/badge/GitHub-Звезда-yellow?style=for-the-badge&logo=github" alt="Star">
-</a>
-</td>
-<td align="center">
-<h3>💝 Поддержи проект</h3>
-<a href="https://t.me/tribute/app?startapp=duUO">
-<img src="https://img.shields.io/badge/Tribute-Донат-green?style=for-the-badge&logo=heart" alt="Donate">
-</a>
-</td>
-</tr>
-</table>
-
 ---
 
-**Made with ❤️ by [@fringg](https://t.me/fringg)**
+**Made with ❤️ by [@artmuz3](https://t.me/artmuz4)**
 
 </div>
